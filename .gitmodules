@@ -1,0 +1,3 @@
+[submodule "book-code"]
+	path = book-code
+	url = https://github.com/Apress/sql-server-data-auto-through-frameworks.git
